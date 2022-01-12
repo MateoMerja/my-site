@@ -1,0 +1,134 @@
+#Mateo{
+    font-family: 'Licorice', cursive;
+    font-size:  562.5%; 
+    color:rgb(55, 216, 162);   
+}
+/*************************Body elements*********************/
+p{
+    font-family: sans-serif; 
+}
+h1{
+
+    margin-top: 0;
+}
+body{
+    
+    text-align: center;
+    margin:0px;
+    font-family:sans-serif;
+}
+/************************Games****************************/
+.now{
+    position: absolute;
+    right:1450px;
+    top:1115px;
+}
+.now1{
+    position: absolute;
+    right:1400px;
+    top:1280px;
+    font-family: sans-serif;
+}
+.now2{
+    position: absolute;
+    right:1460px;
+    top:1320px;
+}
+/************************Volejboll**************************/
+.new{
+
+    position: absolute;
+    right:180px;
+    top:1115px;
+}
+.new1{
+    position: absolute;
+    right:200px;
+    top:1280px;
+    font-family: sans-serif;
+}
+.new2{
+    position: absolute;
+    right:180px;
+    top:1320px; 
+}
+/************************Kreativ***************************/
+.skill1{
+    font-family: sans-serif;    
+}
+/**********************************************************/
+.Top-Container{
+    background-color:floralwhite ;
+    padding-top:100px ;
+    position: relative;
+  }
+.bottom-cloud{
+position: absolute;
+left:600px;
+bottom:300px;
+}
+.top-cloud{
+   position: absolute;
+   right:500px;
+   top:50px;
+}
+.Middle-Container{
+
+}
+
+.Bottom-Container{
+
+}
+.h3{
+    font-family: sans-serif;
+    color: aquamarine;
+    font-size: 40px;
+}
+.h4{
+    color: aquamarine;
+}
+.h9{
+    color: aquamarine; 
+    font-family: sans-serif;
+    font-size: 33px;
+}
+/***********************Links**************************/
+.links{
+    background-color:deepskyblue;
+    margin-bottom: 0px;
+    padding: 30px;
+    margin-top:30px ;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+.btn {
+    background: #296f9e;
+    background-image: -webkit-linear-gradient(top, #296f9e, #a3c2d6);
+    background-image: -moz-linear-gradient(top, #296f9e, #a3c2d6);
+    background-image: -ms-linear-gradient(top, #296f9e, #a3c2d6);
+    background-image: -o-linear-gradient(top, #296f9e, #a3c2d6);
+    background-image: linear-gradient(to bottom, #296f9e, #a3c2d6);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #1cd698);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #1cd698);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #1cd698);
+    background-image: -o-linear-gradient(top, #3cb0fd, #1cd698);
+    background-image: linear-gradient(to bottom, #3cb0fd, #1cd698);
+    text-decoration: none;
+  }
